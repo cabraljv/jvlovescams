@@ -68,7 +68,7 @@ export default {
 </script>
 <style scoped>
 .heart{
-  height: 70px;
+  height: 60px;
   display: flex;
   position: absolute;
 }
@@ -85,20 +85,23 @@ export default {
   left: 25px;
 }
 .heart-4{
-  bottom: 200px;
+  bottom: 250px;
   left:200px;
 }
 .heart-5{
-  bottom: 300px;
+  bottom: 260px;
   right:10px;
+  height: 50px;
 }
 .header{
   display: flex;
   align-items: center;
+  margin-bottom: 5px;
+
 }
   .header img{
-    height: 200px;
-    margin-right: -30px;
+    height: 110px;
+    margin-right: -20px;
   }
   .header p{
     font-size: 40px;
@@ -106,7 +109,7 @@ export default {
   .propose{
     font-family: 'Karla', sans-serif;
     padding: 5px 30px;
-    font-size: 16px;
+    font-size: 15px;
     margin-top: -60px;
   }
   .question{

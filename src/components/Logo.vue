@@ -17,12 +17,12 @@ export default {
     font-family: "Pixelify Sans", serif;
     font-optical-sizing: auto;
     font-style: normal;
-    font-size: 60px;
+    font-size: 55px;
     align-items: center;
     justify-content: center;
   }
   #container img{
-    height: 100px;
+    height: 90px;
     padding-right: 10px;
   }
 </style>
