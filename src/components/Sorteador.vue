@@ -31,7 +31,12 @@ export default {
       possibilities: [
         "Jardim Botânico",	
         "Pique nique na UF",
-        "Restaurante",
+        "Sushi",
+        "Pizza",
+        "Barzinho",
+        "Pub",
+        "Tomar cogu",
+        "Planejar viagem",
         "Cinema",
       ],
       winnerIndex: null,
