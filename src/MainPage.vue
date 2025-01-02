@@ -7,7 +7,7 @@
     <sorteador :handleGambled="gambled" v-if="gambledTimes<2"></sorteador>
     <dating-propose v-else></dating-propose>
   </main>
-  <footer>
+  <footer v-if="gambledTimes<2">
     <footer-comp></footer-comp>
   </footer>
   </div>
