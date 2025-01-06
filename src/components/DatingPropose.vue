@@ -50,7 +50,10 @@ export default {
   methods: {
     saidYes(){
       this.$refs.audioYes.play()
-      alert('Eu te amo muito, meu amor!!!')
+      setTimeout(() => {
+        alert('Eu te amo muito, meu amor!!!')
+      }, 0.5 * 1000)
+      
     }
   },
   created() {
