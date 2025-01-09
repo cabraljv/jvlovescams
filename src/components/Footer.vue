@@ -1,6 +1,6 @@
 <template>
   <div>
-    <p>Feito com todo o amor do mundo de João Victor Cabral para o meu amor Camila</p>
+    <p style="font-size: 0.9rem">Made with ❤️</p>
   </div>
 </template>
 <script>
